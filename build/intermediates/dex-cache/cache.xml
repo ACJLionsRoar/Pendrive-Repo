@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.github.medyo/android-about-page/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="74e3925ae9f79982c9e63997458f6788945a84c3">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.github.medyo-android-about-page-1.0.1_1f2ba51965ae96faa7e965e11c40ac4b2860b649.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/internal_impl-23.3.0_d8426a73e54a5b3bb893ea1e128c9381862f3679.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/support-annotations-23.3.0_445f7e12fedf2b8ba03b07c5f7ed5ef8319d51aa.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.davemorrissey.labs/subsampling-scale-image-view/3.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fa7c91f0a2b43f8d9fa001e3d04e2d600f24cc68">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.davemorrissey.labs-subsampling-scale-image-view-3.5.0_949d41f42c5d295180ad41d937382564ff0547a4.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.3.0_08e14c3761ea95efd4cd149f666d879a9c700ae0.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/libs/Navigine_SDK.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="600c8adb9430027c653a4b8b2345041004026d9f">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/Navigine_SDK_37350eaf98bbf4e8b19bfcf599649436707608da.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.shehabic.droppy/Droppy/0.5.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="50d30f0059d5475be23994686357cfcd3e085c40">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.shehabic.droppy-Droppy-0.5.1_bae4a61b8ac19540e7a45955cdf7c65edd7186cf.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.3.0_e19b0d7a785d40cd1948c5052458c1efdce75628.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.3.0_35c7fd4b5dee3ad30ad72c32fc8d56b87d212aa2.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.3.0_9d285b8bece4948bbc646f04ffe135a857ae405d.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.3.0_3180caf68e999ba07d41607ba87efb9560772517.jar" />
+    </item>
+    <item
+        jar="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/ACJLionsRoar/AndroidStudioProjects/IndoorNavigationpublic/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.3.0_4554b58dba937b08699db8b2237e042af28f56c4.jar" />
+    </item>
+
+</items>

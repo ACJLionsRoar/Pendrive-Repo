@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+    <item android:id="@+id/floor2_vicePrincy" android:title="1.Vice Principal" />
+    <item android:id="@+id/floor2_scienceDept" android:title="2.Science And Humanities Dept" />
+    <item android:id="@+id/floor2_csStaffRoom" android:title="3.CS Staff Room" />
+    <item android:id="@+id/floor2_ecStaffRoom1" android:title="4.EC Staff Room 1" />
+    <item android:id="@+id/floor2_ecStaffRoom2" android:title="5.EC Staff Room 2" />
+    <item android:id="@+id/floor2_s8eca" android:title="6.S8 ECA" />
+    <item android:id="@+id/floor2_s8ecb" android:title="7.S8 ECB" />
+    <item android:id="@+id/floor2_s6eca" android:title="8.S6 ECA" />
+    <item android:id="@+id/floor2_s6ecb" android:title="9.S6 ECB" />
+    <item android:id="@+id/floor2_s4csb" android:title="10.S4 CSB" />
+    <item android:id="@+id/floor2_ktu" android:title="11.KTU Exam Control Room" />
+    <item android:id="@+id/floor2_mg" android:title="12.MG Exam Control Room" />
+
+
+
+
+</menu>

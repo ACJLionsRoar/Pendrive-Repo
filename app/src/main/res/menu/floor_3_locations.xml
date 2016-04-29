@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item android:id="@+id/floor3_csHOD" android:title="1.CS HOD" />
+    <item android:id="@+id/floor3_meHOD" android:title="2.Mechanical HOD" />
+    <item android:id="@+id/floor3_ccc" android:title="3.CCC" />
+    <item android:id="@+id/floor3_csLibrary" android:title="4.CS Library" />
+    <item android:id="@+id/floor3_s8csa" android:title="5.S8 CSA" />
+    <item android:id="@+id/floor3_s8csb" android:title="6.S8 CSB" />
+    <item android:id="@+id/floor3_s6csa" android:title="7.S6 CSA" />
+    <item android:id="@+id/floor3_s6csb" android:title="8.S6 CSB" />
+    <item android:id="@+id/floor3_s4csa" android:title="9.S4 CSA" />
+    <item android:id="@+id/floor3_s4mea" android:title="10.S4 ME A" />
+    <item android:id="@+id/floor3_s4meb" android:title="11.S4 ME B" />
+    <item android:id="@+id/floor3_seminarHall1" android:title="12.Seminar Hall 1" />
+    <item android:id="@+id/floor3_seminarHall2" android:title="13.Seminar Hall 2" />
+    <item android:id="@+id/floor3_csStaffRoom1" android:title="14.CS Staff Room 1" />
+    <item android:id="@+id/floor3_csStaffRoom2" android:title="15.CS Staff Room 2" />
+    <item android:id="@+id/floor3_meStaffRoom" android:title="16.Mechanical Staff Room" />
+    <item android:id="@+id/floor3_serverRoom" android:title="17.Server Room" />
+
+
+
+
+
+
+
+
+
+
+</menu>
